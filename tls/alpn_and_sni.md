@@ -1,10 +1,9 @@
 
 <!-- type=misc -->
 
-ALPN (Application-Layer Protocol Negotiation Extension) and
-SNI (Server Name Indication) are TLS handshake extensions:
+ALPN (Application-Layer Protocol Negotiation Extension) 和
+SNI (Server Name Indication)是 TLS 的拓展:
 
-* ALPN - Allows the use of one TLS server for multiple protocols (HTTP, HTTP/2)
-* SNI - Allows the use of one TLS server for multiple hostnames with different
-  SSL certificates.
+* ALPN -允许TLS服务用于多协议(HTTP, HTTP/2)
+* SNI - 允许TLS服务用于具有不同SSL证书的多主机。
 
